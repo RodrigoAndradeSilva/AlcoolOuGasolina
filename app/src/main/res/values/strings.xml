@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AlcoolOuGasolina</string>
+    <string name="calcular_o_melhor_valor">Calcular o melhor valor</string>
+    <string name="hint_gasolina_valor">Ex: 3,58</string>
+    <string name="hint_valor_alcool">Ex: 4,00</string>
+    <string name="valor_do_lcool">Valor do Álcool</string>
+    <string name="a_melhor_escolha">A melhor escolha é:</string>
+    <string name="valor_da_gasolina">Valor da Gasolina</string>
+    <string name="a_melhor_escolha_e_abastecer_gasolina">A melhor escolha é abastecer com Gasolina</string>
+    <string name="a_melhor_escolha_e_abastecer_alcool">A melhor escolha é abastecer com Álcool</string>
+</resources>
